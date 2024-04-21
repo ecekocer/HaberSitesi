@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<HaberSitesi.Models.Menu>
+
+<ul>
+    @foreach (var Menu in Model)
+    {
+        <li>Menü Id: @Menu.MenuId - Menü Adı: @Menu.MenuAdi - Menü Türü: @Menu.MenuTuruId - Icon: @Menu.Icon - Url: @Menu.Url</li>
+    }
+</ul>

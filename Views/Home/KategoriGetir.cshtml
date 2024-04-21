@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<HaberSitesi.Models.Kategori>
+
+<ul>
+    @foreach (var kategori in Model)
+    {
+        <li>Kategori Id: @kategori.KategoriId - Adı: @kategori.KategoriAdi</li>
+    }
+</ul>

@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<HaberSitesi.Models.Kullanici>
+
+<ul>
+    @foreach (var Kullanici in Model)
+    {
+        <li>Kullanici Id: @Kullanici.KullaniciId - Email: @Kullanici.Email - Parola: @Kullanici.Parola - Kullanıcı Türü: @Kullanici.KullaniciTuruId - Kayıt Tarihi: @Kullanici.KayitTarihi</li>
+    }
+</ul>

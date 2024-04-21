@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HaberSitesi
+build_property.RootNamespace = HaberSitesi
+build_property.ProjectDir = D:\VİsualStudioProjects\HaberSitesi\HaberSitesi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\VİsualStudioProjects\HaberSitesi\HaberSitesi
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Editor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Editor/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaXJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/HaberGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJlckdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXRlZ29yaUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/KullaniciGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLdWxsYW5pY2lHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/KullaniciTuruGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLdWxsYW5pY2lUdXJ1R2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/KullaniciTuruYetkiGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLdWxsYW5pY2lUdXJ1WWV0a2lHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/MenuGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51R2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/MenuTuruGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51VHVydUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Home/YetkiGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZZXRraUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Shared/_EditorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FZGl0b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-toz24zq4q3
+
+[D:/VİsualStudioProjects/HaberSitesi/HaberSitesi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k5mxj6r8lc
